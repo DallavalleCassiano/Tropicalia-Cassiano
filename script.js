@@ -33,3 +33,8 @@ document.addEventListener('DOMContentLoaded', function(){
     document.body.classList.toggle('alto-contraste');
     })
     });
+
+    scrollReveral().reveal('#inicio', {delay: 500});
+    scrollReveral().reveal('#galeria', {delay: 500});
+    scrollReveral().reveal('#tropicalia', {delay: 500});
+    scrollReveral().reveal('#contato', {delay: 500});
