@@ -1,1 +1,17 @@
-# Tropicalia-Cassiano
+# Site acessível sobre Tropicália
+
+## Sobre
+Reatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
+
+## Recursos de acsibilidade
+-Atributos de aria
+-Alt
+-Tab-index
+-Menu de acessibilidade
+
+## Tecnologias utilizadas
+-Bootstrap
+-ScrollReveal.js
+-HTML
+-CSS
+-JS
